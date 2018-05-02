@@ -1,0 +1,9 @@
+Article: 
+@entity2 's @entity1 evening newscast has officially overtaken underfire rival @entity4 's @entity3 in the ratings war for the first time in more than five and a half years
+@entity4 's 0consecutive week winning run had stetched back to september 0and the drop from the top spot comes two months after anchor @entity10 received a six - month suspension for misleading viewers about his coverage of the @entity14 in 0
+according to @entity16 , @entity2 's @entity1 with @entity15 attracted 84,000 more viewers for the week ending april 0, with the show pulling in 7.997 million viewers compared to @entity3 's 7.913 million
+
+Summary Generated: 
+@entity2 's @entity1 evening newscast has officially overtaken underfire rival @entity4 's @entity3 in the ratings war for the first time in more than five and a half years
+@entity4 's 0consecutive week winning run had stetched back to september 0and the drop from the top spot comes two months after anchor @entity10 received a six - month suspension for misleading viewers about his coverage of the @entity14 in 0
+according to @entity16 , @entity2 's @entity1 with @entity15 attracted 84,000 more viewers for the week ending april 0, with the show pulling in 7.997 million viewers compared to @entity3 's 7.913 million

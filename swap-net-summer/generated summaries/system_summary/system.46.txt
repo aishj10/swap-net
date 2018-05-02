@@ -1,0 +1,13 @@
+Article: 
+a mum who says she felt like a ' rabbit in headlights ' after having her first child has designed an app to guide mothers through pregnancy and early motherhood , which even tells breastfeeding mothers which boob to use next
+@entity10 , 0, from @entity11 , @entity12 , came up with the idea for @entity14 when she was pregnant with daughter @entity15 , now three months old
+like most first - time mums , @entity10 and husband @entity17 , had no idea what to expect when they brought their first child home from hospital
+@entity10 , 0, from @entity11 -lrb- left , with @entity15 and right with @entity15 and husband @entity17 -rrb- came up with the idea for @entity14 when she was pregnant tech - savvy mum @entity10 , who designed the new app , with baby @entity15 , now three months @entity10 said : ' i had absolutely no idea what to do - i was forever turning to @entity28 to find out information , and some of the things i found were n't right
+' she also admits she even struggled to remember which boob she had used last when breastfeeding so included a breast - tracking feature
+the mum - of - one designed the mobile app to contain a huge amount of information on everything from late stage pregnancy and birth to breastfeeding
+the app , which is available on all mobile platforms , has already been downloaded 20,000 times and is getting rave reviews
+
+Summary Generated: 
+a mum who says she felt like a ' rabbit in headlights ' after having her first child has designed an app to guide mothers through pregnancy and early motherhood , which even tells breastfeeding mothers which boob to use next
+@entity10 , 0, from @entity11 , @entity12 , came up with the idea for @entity14 when she was pregnant with daughter @entity15 , now three months old
+@entity10 , 0, from @entity11 -lrb- left , with @entity15 and right with @entity15 and husband @entity17 -rrb- came up with the idea for @entity14 when she was pregnant tech - savvy mum @entity10 , who designed the new app , with baby @entity15 , now three months @entity10 said : ' i had absolutely no idea what to do - i was forever turning to @entity28 to find out information , and some of the things i found were n't right

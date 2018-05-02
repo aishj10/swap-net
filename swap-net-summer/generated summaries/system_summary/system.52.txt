@@ -1,0 +1,23 @@
+Article: 
+@entity1 's dr @entity0 has abandoned his journalistic duties to scrub up and perform brain surgery on a teenager in an overstretched hospital in @entity6
+the neurosurgeon , who is in @entity8 to cover the aftermath of saturday 's deadly earthquake , performed a craniotomy on the 0- year - old girl , @entity12 , after a wall of her family 's home fell on her as she collected water outside
+@entity12 , who lives in a more remote area of the country , only reached @entity8 's @entity19 two days after the 7.8 - magnitude quake and by that point , blood had collected in the top of her brain , @entity1 reported
+more than 6,000 people were injured ' i was asked to do this by the doctors there at the hospital , ' dr @entity0 said during a telephone interview with the network
+' i think they literally need another set of hands because the demand is so high
+' during the procedure , he was forced to used basic equipment , such as a saw rather than an electric drill , and sterile water and iodine from a bottle , rather than a proper scrub sink , he told @entity1
+following the operation , she is ' doing well ' , @entity0 said , ' but her story is unfortunately very typical '
+after the surgery , an eight - year - old girl arrived at the hospital needing a similar operation
+more than 4,300 people are believed to have been killed in the earthquake , but @entity6 officials have speculated that as many as 10,000 could have died
+around 6,000 have been injured and are pouring into the hospitals , which are struggling to keep up with the demand
+' i 've seen a lot of situations around the world , and this is as bad as i 've ever seen it , ' @entity0 said
+hurt : another child with a similar head injury , pictured , came to the hospital shortly after the operation helping hand : as well as working for @entity1 , @entity0 is a neurosurgeon at @entity82 in @entity83 ' they need more resources , they need more personnel here right now , and they 're expecting many more patients as these rescue operations go on
+they 're barely able to keep up right now
+' as well as serving as @entity1 's chief medical correspondent , @entity0 is a neurosurgeon at @entity82 in @entity83
+it is not the first time the married father - of - three , 0, has performed surgery while on a reporting job
+in 0, while covering the medical demands of the invasion of @entity99 , he performed emergency surgery on @entity102 soldiers and @entity99 civilians
+and while reporting in @entity105 following the 0earthquake , he and other doctors removed a piece of concrete from a 0- year - old girl 's skull aboard aircraft carrier @entity111
+
+Summary Generated: 
+@entity1 's dr @entity0 has abandoned his journalistic duties to scrub up and perform brain surgery on a teenager in an overstretched hospital in @entity6
+the neurosurgeon , who is in @entity8 to cover the aftermath of saturday 's deadly earthquake , performed a craniotomy on the 0- year - old girl , @entity12 , after a wall of her family 's home fell on her as she collected water outside
+more than 6,000 people were injured ' i was asked to do this by the doctors there at the hospital , ' dr @entity0 said during a telephone interview with the network

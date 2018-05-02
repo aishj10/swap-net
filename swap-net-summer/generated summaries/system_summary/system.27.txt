@@ -1,0 +1,10 @@
+Article: 
+the nation 's largest suppliers of @entity2 and @entity4 medical care is accused of bilking @entity5 and @entity6 in an elaborate $ 0million dollar scam that spanned 0- states , according to a lawsuit filed in @entity11 federal court
+three former managers of the @entity13 filed a suit last week alleging the company paid employees and patients kickbacks for patient referrals in an effort to boost funding from federal health programs
+employees were paid $ 0bonuses for referring patients with positive test results to its clinics and pharmacies
+the lawsuit alleges kickbacks started in 0at the company 's @entity31 headquarters and spread to programs in @entity11 and several other locations
+
+Summary Generated: 
+the nation 's largest suppliers of @entity2 and @entity4 medical care is accused of bilking @entity5 and @entity6 in an elaborate $ 0million dollar scam that spanned 0- states , according to a lawsuit filed in @entity11 federal court
+three former managers of the @entity13 filed a suit last week alleging the company paid employees and patients kickbacks for patient referrals in an effort to boost funding from federal health programs
+employees were paid $ 0bonuses for referring patients with positive test results to its clinics and pharmacies

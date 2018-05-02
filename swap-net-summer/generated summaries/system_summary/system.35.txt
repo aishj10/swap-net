@@ -1,0 +1,14 @@
+Article: 
+@entity2 's @entity1 - winning batsman @entity0 has had surgery on his left hamstring and will be sidelined for up to three months
+the pugnacious opener , captain of @entity2 's @entity8 team , sustained the injury playing for the @entity10 in the @entity11 and returned to @entity12 to have the operation on tuesday
+' @entity0 had scans that confirmed a high grade hamstring injury , ' @entity15 team physiotherapist @entity14 said on wednesday
+@entity18 batsman @entity0 faces three months out of action after surgery on his hamstring @entity22 was part of @entity2 's @entity1 - winning side and was injured while playing in the @entity11 ' as such , @entity0 was assessed by a surgeon who felt that he would have a better outcome with surgery
+@entity0 subsequently had surgery yesterday that has gone well
+' @entity0 will now commence his rehabilitation and we expect that rehabilitation to take up to 0weeks
+' @entity22 has never played @entity32 cricket and was not included in the @entity2 squad for june 's series in @entity35 or the @entity37 tour which follows
+the 0- year - old was scheduled to join @entity39 at the end of may .
+
+Summary Generated: 
+@entity2 's @entity1 - winning batsman @entity0 has had surgery on his left hamstring and will be sidelined for up to three months
+the pugnacious opener , captain of @entity2 's @entity8 team , sustained the injury playing for the @entity10 in the @entity11 and returned to @entity12 to have the operation on tuesday
+' @entity0 had scans that confirmed a high grade hamstring injury , ' @entity15 team physiotherapist @entity14 said on wednesday

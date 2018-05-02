@@ -1,0 +1,19 @@
+Article: 
+@entity0 has urged @entity1 to turn @entity2 back into ' @entity3 ' and believes an @entity6 semi-final victory over @entity7 on sunday would help his players develop a stronger winning mentality
+@entity0 is looking to lead @entity1 to an eighth @entity6 victory and his first piece of silverware since replacing @entity13 as manager in 0
+and the @entity15 believes that while trophy success is imperative for any @entity1 team , success this season could pave the way for many more trips to @entity2 in the future
+@entity0 leads @entity1 for the first time at @entity2 since arriving at the club in 0@entity1 's last trophy success came in 0in the @entity26 under @entity13 @entity0 wants @entity1 to reclaim the form that led @entity2 being called ' @entity3 ' by supporters ' the history of the competition is set here at @entity1 , with the great victories they 've had in the past , ' @entity0 said in an interview with @entity34
+' and this is a club that is based around winning trophies
+' @entity2 was somewhere that used to be known as ' @entity3 '
+@entity1 used to visit @entity2 so much it was a regular occurrence for them
+' we have some gifted young players who we want to springboard their careers by allowing them to feel the mentality of winning and that would really help us
+' the 0- year - old @entity0 also spoke of his eagerness to claim his first piece of silverware at @entity1
+he took the side to brink of winning the @entity50 for the first time last season but while @entity1 have undoubtedly progressed under his guidance , their last trophy win was the @entity26 in 0under @entity13
+' i want to be in the game for a long time , and be renowned as someone who is up there at the elite level and looking to win trophies , ' @entity0 said
+' -lrb- the @entity6 -rrb- is synonymous throughout the world
+it 's the real competition in domestic football that the players love to win
+
+Summary Generated: 
+@entity0 has urged @entity1 to turn @entity2 back into ' @entity3 ' and believes an @entity6 semi-final victory over @entity7 on sunday would help his players develop a stronger winning mentality
+@entity0 is looking to lead @entity1 to an eighth @entity6 victory and his first piece of silverware since replacing @entity13 as manager in 0
+@entity0 leads @entity1 for the first time at @entity2 since arriving at the club in 0@entity1 's last trophy success came in 0in the @entity26 under @entity13 @entity0 wants @entity1 to reclaim the form that led @entity2 being called ' @entity3 ' by supporters ' the history of the competition is set here at @entity1 , with the great victories they 've had in the past , ' @entity0 said in an interview with @entity34

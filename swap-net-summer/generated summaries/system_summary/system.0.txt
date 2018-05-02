@@ -1,0 +1,21 @@
+Article: 
+a mysterious @entity0 has delivered chocolate eggs to every house in a village of 3,000 people
+residents from @entity6 , @entity7 , woke to discover a chocolate egg on their doorsteps
+@entity10 , 0, said : ' it is just such a lovely gesture
+every house in the village got one as far as we are aware
+local residents in @entity6 , @entity7 , pictured , awoke on sunday to find an @entity16 on every doorstep ' we walked around the village and everyone seemed to have been left one of these chocolate foil wrapped eggs
+' my daughter said everyone was talking about it on @entity27
+it 's never happened before
+it must have been quite some operation
+' @entity30 added : ' it 's just such a beautiful thing
+everyone is on @entity27 going absolutely crazy about it
+' it looks like everyone was left an egg
+it 's very vicar of dibley ! ' it 's a wonderful act of random kindness and i think that explains where it has come from
+' it 's just such a lovely thing to do
+it 's never happened before and i 've lived here for 0years
+' residents of the picturesque @entity7 village described the deed as ' a wonderful act of random kindness '
+
+Summary Generated: 
+residents from @entity6 , @entity7 , woke to discover a chocolate egg on their doorsteps
+@entity10 , 0, said : ' it is just such a lovely gesture
+local residents in @entity6 , @entity7 , pictured , awoke on sunday to find an @entity16 on every doorstep ' we walked around the village and everyone seemed to have been left one of these chocolate foil wrapped eggs

@@ -1,0 +1,16 @@
+Article: 
+@entity0 , 0, to a care home while he went to @entity5 for three weeks but when he returned was not allowed to take her home with him an @entity5 husband who took his elderly @entity9 wife to a care home for respite while he went to @entity12 is threatening to go on hunger strike after she was not allowed to return to him
+@entity14 , 0, married wife @entity1 , 0, in @entity12 0years ago and moved back to the @entity9 with her when she became ill with dementia in 0
+mr @entity0 , who is his wife 's carer , had taken her to a care home in february while he returned to @entity5 for three weeks
+but when he went to pick her up he was told social services had intervened and ruled she could not go home with him
+mr @entity0 had threatened to go on hunger strike unless @entity23 hand over his wife , who he says has pleaded to return home to her husband
+' they have used their power against me to keep my wife in a nursing home against her and my wishes , ' said the supermarket security worker
+' i care for her better than anyone and i feel very sad
+' every time i go to the @entity12 i contact social services for respite , but they never told me they were going to keep my wife
+' to me @entity41 is not old , she is a human being and no matter if she is old or young she is my wife
+' i would never neglect @entity41
+
+Summary Generated: 
+@entity0 , 0, to a care home while he went to @entity5 for three weeks but when he returned was not allowed to take her home with him an @entity5 husband who took his elderly @entity9 wife to a care home for respite while he went to @entity12 is threatening to go on hunger strike after she was not allowed to return to him
+@entity14 , 0, married wife @entity1 , 0, in @entity12 0years ago and moved back to the @entity9 with her when she became ill with dementia in 0
+mr @entity0 , who is his wife 's carer , had taken her to a care home in february while he returned to @entity5 for three weeks

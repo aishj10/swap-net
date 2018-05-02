@@ -1,0 +1,9 @@
+Article: 
+a 0- year - old @entity1 man was arrested and charged on thursday with lying to federal agents about his involvement with @entity5 militants fighting in @entity6 , which has been documented on his @entity9 page
+@entity10 faced two counts of making false statements involving international terrorism matters in @entity14 of the @entity15
+@entity17 , who was born in @entity6 and became a naturalized @entity19 citizen in 0at age 0, is accused of making false statements during interviews with the @entity22 and other @entity19 authorities at the @entity24 in @entity25 , @entity26 , in march , the @entity16 said
+
+Summary Generated: 
+a 0- year - old @entity1 man was arrested and charged on thursday with lying to federal agents about his involvement with @entity5 militants fighting in @entity6 , which has been documented on his @entity9 page
+@entity10 faced two counts of making false statements involving international terrorism matters in @entity14 of the @entity15
+@entity17 , who was born in @entity6 and became a naturalized @entity19 citizen in 0at age 0, is accused of making false statements during interviews with the @entity22 and other @entity19 authorities at the @entity24 in @entity25 , @entity26 , in march , the @entity16 said

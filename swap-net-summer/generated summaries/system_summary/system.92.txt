@@ -1,0 +1,13 @@
+Article: 
+a man was shot in @entity1 wednesday night as he fled from the scene of an alleged crime
+members of the @entity5 claim the man , 0, opened fire in the @entity9 section of the city after they responded to a call from a bar that shots had been fired
+when he turned around to do so again he was shot dead
+a witness told @entity22 that they saw an officer running with their weapon drawn ' telling everyone to get out of the way
+' the witness said after the officer went around the corner they heard four shots fired , and that later the officer was performing cpr on the suspect
+the suspect was taken to a local hospital where they later died
+no officers were hurt during the incident .
+
+Summary Generated: 
+a man was shot in @entity1 wednesday night as he fled from the scene of an alleged crime
+members of the @entity5 claim the man , 0, opened fire in the @entity9 section of the city after they responded to a call from a bar that shots had been fired
+when he turned around to do so again he was shot dead
