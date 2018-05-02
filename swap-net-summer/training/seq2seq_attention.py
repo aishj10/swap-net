@@ -1,20 +1,5 @@
-# Copyri gh2016 The TensorFlow Authors. All Rights Reserved.
-# Modifications Copyright 2017 Abigail See
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#     http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
-# ==============================================================================
 
-"""This is the top-level file to train, evaluate or test your summarization model"""
+
 import sys
 import time
 
@@ -22,7 +7,6 @@ import tensorflow as tf
 from tensorflow.python.platform import gfile
 import tensorflow.python.debug as tf_debug
 from data import batch_reader
-#import data
 from model import seq2seq_attention_model
 
 import random
@@ -30,7 +14,7 @@ import os
 import numpy as np
 
 from data import read_data
-#import seq2seq_6 as seq2seq
+
 import util
 
 from pyrouge import Rouge155
@@ -151,7 +135,6 @@ def run_training(model, batcher,re_vocab,embed, sess_context_manager, sv, summar
   
       (_, summaries, loss, train_step)=step_output[0]
       (out_decoder_outputs,out_sent_decoder_outputs,final_dists)=step_output[1]
-      # print("article_batch",article_batch)
       (step_loss,word_loss,sent_loss,word_loss_null,sent_loss_null,switch_loss)=step_output[2]
 
       if train_step % 50 == 0: 
