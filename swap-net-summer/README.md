@@ -26,7 +26,7 @@ This code is based on [Textsum code](https://github.com/tensorflow/models/tree/m
 
 ------------
 
-*Parameter Settings used by baseline Nallapati et al.:
+* Parameter Settings used by baseline Nallapati et al.:
 Dimension of LSTM hidden states: 200, Dimension of word embeddings: 100, Batch size: 64, Vocabulary Size: 150000, max timesteps of encoder (max input text words): 50 words per sentence, Optimizer: adadelta    
 *
 
@@ -49,7 +49,7 @@ Now run
 
 This will create following in dataset/finished_files directory:
 
-- Files with processed data : train.bin, test.bin,val.bin 
+- Files with processed data : train.bin, test.bin, val.bin 
 - Vocabulary file : vocab.txt  
 - File generated from RAKE : keyword.txt 
 - word2vec model : embed_model.bin
