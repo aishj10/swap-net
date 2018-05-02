@@ -26,9 +26,9 @@ This code is based on [Textsum code](https://github.com/tensorflow/models/tree/m
 
 ------------
 
-* Parameter Settings used by baseline Nallapati et al.:
-Dimension of LSTM hidden states: 200, Dimension of word embeddings: 100, Batch size: 64, Vocabulary Size: 150000, max timesteps of encoder (max input text words): 50 words per sentence, Optimizer: adadelta    
-*
+*Parameter Settings used by baseline Nallapati et al.:
+Dimension of LSTM hidden states: 200, Dimension of word embeddings: 100, Batch size: 64, Vocabulary Size: 150000, max timesteps of encoder (max input text words): 50 words per sentence, Optimizer: adadelta*    
+
 
 ------------
 
